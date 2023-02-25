@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-.Rdata
-.httr-oauth
-.DS_Store
-=======
 # History files
 .Rhistory
 .Rapp.history
@@ -46,4 +37,5 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
->>>>>>> 167c9d9ede0bb27a546cc2b77ed9db79a1aae971
+
+/.quarto/
